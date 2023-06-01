@@ -574,6 +574,11 @@ function hmrAccept(bundle /*: ParcelRequire */ , id /*: string */ ) {
 }
 
 },{}],"6rimH":[function(require,module,exports) {
+//Keycode 
+//A = 65
+//B = 66
+//c = 67
+window.addEventListener("keydown", ()=>{});
 
 },{}]},["gAoaA","6rimH"], "6rimH", "parcelRequire8ff9")
 
